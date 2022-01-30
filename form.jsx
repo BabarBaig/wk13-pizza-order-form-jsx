@@ -67,7 +67,7 @@ class ReactIntro extends React.Component {
           </div>
 
           <div>Additional Instructions</div>
-          <textarea id="add-instr" cols="50" rows="3"/>
+          <textarea id="add-instr" cols="50" rows="4"/>
 
           <input id="form-submit" type="submit" value="Submit Order"/>
         </form>
